@@ -24,3 +24,9 @@
 
 <h2>✨CSharpEgitimKampi_Ders8</h2>
 <p>Bu bölümde kodun yeniden kullanılabilirliğini sağlayan metot kavramını öğrendik.</p>
+
+<h2>✨CSharpEgitimKampi_Ders9</h2>
+<p>Bu bölümde SQL veri tabanı oluşturma, yönetme ve C#'a bağlamayı öğrendik..</p>
+
+<h2>✨CSharpEgitimKampi_Ders10</h2>
+<p>Bu bölümde SQL'de Listeleme/Ekleme/Güncelleme/Silme işlemlerini öğrendik.</p>
