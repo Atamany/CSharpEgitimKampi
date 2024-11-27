@@ -1,0 +1,7 @@
+C:\Users\yigit\Desktop\CSharpEgitimKampi\CSharpEgitimKampi_Ders10\bin\Debug\CSharpEgitimKampi_Ders10.exe.config
+C:\Users\yigit\Desktop\CSharpEgitimKampi\CSharpEgitimKampi_Ders10\bin\Debug\CSharpEgitimKampi_Ders10.exe
+C:\Users\yigit\Desktop\CSharpEgitimKampi\CSharpEgitimKampi_Ders10\bin\Debug\CSharpEgitimKampi_Ders10.pdb
+C:\Users\yigit\Desktop\CSharpEgitimKampi\CSharpEgitimKampi_Ders10\obj\Debug\CSharpEgitimKampi_Ders10.csproj.AssemblyReference.cache
+C:\Users\yigit\Desktop\CSharpEgitimKampi\CSharpEgitimKampi_Ders10\obj\Debug\CSharpEgitimKampi_Ders10.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\CSharpEgitimKampi\CSharpEgitimKampi_Ders10\obj\Debug\CSharpEgitimKampi_Ders10.exe
+C:\Users\yigit\Desktop\CSharpEgitimKampi\CSharpEgitimKampi_Ders10\obj\Debug\CSharpEgitimKampi_Ders10.pdb
